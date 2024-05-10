@@ -24,10 +24,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 #  Rudraksh-Joshi 
-<p>
-  This Repository will help you know about me in an structured manner.
-  Will be filling soon about me!
-</p>
+
 
 <h2>ℹ️ Project info</h2>
 <div>
@@ -50,9 +47,14 @@ You can click the Preview link to take a look at your changes.
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat. I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons/.
 <br>
 <img src="https://github.com/0xmuon/Store/blob/main/The-IT-Crowd-on-fire.gif">
+
 ##  Stats
 
-[![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=muonics)](https://github.com/muonics/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmuon&show_icons=true&locale=en&layout=compact" alt="0xmuon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xmuon&show_icons=true&locale=en" alt="0xmuon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xmuon&" alt="0xmuon" /></p>
 
 ##  Skills🤖
 Note: I am not proficient in anything yet, but I will update when I achieve something worthwhile! Until then, peace out!"
@@ -71,16 +73,16 @@ Note: I am not proficient in anything yet, but I will update when I achieve some
 <p>
   If you want to connect with me,please leave a DM in any of the following Socials,would love to collaborate.
 </p>
-<a href="https://www.linkedin.com/in/rudraksh-j/" type="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://RudrakshAtHashnode.hashnode.dev" type="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
-<a href="https://x.com/0xmuon" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.youtube.com/@muonics" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>  
-<img src="https://komarev.com/ghpvc/?username=0xmuon&style=flat-square&color=blue" alt=""/>
-<div align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
-</div>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rudraksh-j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://www.instagram.com/eldiabloyeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://twitter.com/0xmuon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified learner" height="30" width="40" /></a>
+</p>
+
+
+
+
 
 ## Contributors
 
@@ -92,6 +94,17 @@ Note: I am not proficient in anything yet, but I will update when I achieve some
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=FDEE07&width=435&lines=Thanks+For+Your+Visit+!+%F0%9F%99%83;Thanks+For+Your+Visit+!+%F0%9F%99%82" alt="Typing SVG" /></a>
 </h1>
+
+
+<div align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
+</div>
+
+
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+
 

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @0xmuon
 - 👀 I’m interested in Web3.0 and nothing else fr!
 - 🌱 I’m currently learning DSA,to develop problem solving skills.
-- 💞️ I’m looking to collaborate on exciting security talks/podcasts.
 - 📫 How to reach me :
         Twitter handle: https://x.com/0xmuon
 

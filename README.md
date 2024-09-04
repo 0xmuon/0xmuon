@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @0xmuon
 - 👀 I’m interested in Web3.0 and nothing else fr!
-- 🌱 I’m currently learning DSA,to develop problem solving skills.
-- 📫 How to reach me :
-        Twitter handle: https://x.com/0xmuon
+- 🌱 I’m currently alive.
 
 <!---
 0xmuon/0xmuon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
-My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat. I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons/.
+I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons.
 <br>
 <img src="https://github.com/0xmuon/Store/blob/main/The-IT-Crowd-on-fire.gif">
 
@@ -60,7 +58,7 @@ Note: I am not proficient in anything yet, but I will update when I achieve some
 ## How to reach me📫
 
 <p>
-  If you want to connect with me,please leave a DM in any of the following Socials,would love to collaborate.
+  If you want to connect with me,please leave a DM on any of the following Social media. I would love to collaborate.
 </p>
 
 <p align="left">

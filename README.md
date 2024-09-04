@@ -47,13 +47,10 @@ I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons.
 Note: I am not proficient in anything yet, but I will update when I achieve something worthwhile! Until then, peace out!"
 <br>
 <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="70px"/>&nbsp;&nbsp;
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" width="80px"/>&nbsp;&nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="70px"/>
-<img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="80px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="80px"/>
-<img src="https://devopedia.org/images/article/100/9335.1538393658.svg" width="80px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="80px">
+Rust,React,CSS,HTML
 
 ## How to reach me📫
 

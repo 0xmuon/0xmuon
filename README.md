@@ -27,11 +27,7 @@ I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons.
 ##  Skills🤖
 Note: I am not proficient in anything yet, but I will update when I achieve something worthwhile! Until then, peace out!"
 <br>
-<img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="70px"/>&nbsp;&nbsp;
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="80px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="70px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="80px">
-Rust,React,CSS,HTML
+Rust,React,CSS,HTML,Node.js,Express,MongoDB,JS(web.js)
 
 ## How to reach me📫
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xmuon
+- 👋 Hi, I’m @0xmuon / Rudraksh
 
 <div id="top"></div>
 
@@ -12,7 +12,7 @@
 
 <h1 align="center">Student, Developer, Open Source Enthusiast</h1>
 <br>
-I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons.
+Passionate about low-level systems, WebAssembly, and cloud-native technologies.Part-time webdev enthusiast.
 <br>
 <img src="https://github.com/0xmuon/Store/blob/main/The-IT-Crowd-on-fire.gif">
 
@@ -27,7 +27,7 @@ I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons.
 ##  Skills🤖
 Note: I am not proficient in anything yet, but I will update when I achieve something worthwhile! Until then, peace out!"
 <br>
-Rust,React,CSS,HTML,Node.js,Express,MongoDB,JS(web.js)
+Rust,React,CSS,HTML,Node.js,Express,MongoDB,Typescript,Javascript,Wasm,Docker,K8s,Go,Bash,Git,Gitlab,API,Shell Scripting,GDB,LLVM.
 
 ## How to reach me📫
 

@@ -4,15 +4,11 @@
 
 <br>
 
-<h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=050748&width=435&lines=Watch+Out+!+Watch+Out+!+;Scroll+At+Your+Own+Risk+!" alt="Typing SVG" /></a>
-</h2>
-  
 ##  About me!
 
-<h1 align="center">Student, Developer, Open Source Enthusiast</h1>
+<h1 align="center">Student</h1>
 <br>
-Passionate about low-level systems, WebAssembly, and cloud-native technologies.Part-time webdev enthusiast.
+Passionate about low-level systems, WebAssembly, and cloud-native technologies. Part-time webdev enthusiast. Wannabe Rustacean.
 <br>
 <img src="https://github.com/0xmuon/Store/blob/main/The-IT-Crowd-on-fire.gif">
 
@@ -30,16 +26,9 @@ Note: I am not proficient in anything yet, but I will update when I achieve some
 Rust,React,CSS,HTML,Node.js,Express,MongoDB,Typescript,Javascript,Wasm,Docker,K8s,Go,Bash,Git,Gitlab,API,Shell Scripting,GDB,LLVM.
 
 ## How to reach me📫
-
-<p>
-  If you want to connect with me,please leave a DM on any of the following Social media. I would love to collaborate.
-</p>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rudraksh-j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://twitter.com/0xmuon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplified learner" height="30" width="40" /></a>
-<a href="https://www.instagram.com/eldiabloyeet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-</p>
+```sh
+echo "cnVkcmFrc2hqb3NoaWNAZ21haWwuY29tCmh0dHBzOi8vbGlua2VkaW4uY29tL2luL3J1ZHJha3NoLWovCmh0dHBzOi8veC5jb20vMHhtdW9u" | base64 -d
+```
 
 
 <h1 align="center">
@@ -47,9 +36,7 @@ Rust,React,CSS,HTML,Node.js,Express,MongoDB,Typescript,Javascript,Wasm,Docker,K8
 </h1>
 
 <div align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" />
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>

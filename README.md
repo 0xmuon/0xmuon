@@ -8,7 +8,7 @@
 
 <h1 align="center">Student</h1>
 <br>
-Passionate about low-level systems, WebAssembly, and cloud-native technologies. Part-time webdev enthusiast. Wannabe Rustacean.
+Passionate about low-level systems,Analytics(sql,py). Part-time webdev enthusiast. Wannabe Rustacean.
 <br>
 <img src="https://github.com/0xmuon/Store/blob/main/The-IT-Crowd-on-fire.gif">
 

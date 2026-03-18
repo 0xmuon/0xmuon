@@ -6,18 +6,16 @@
 
 <h3 align="center"> Pursuing a Bachelor's in Electrical Engineering (B.Tech) @ NIT Surat(India)</h3>
 <br>
-Passionate about low-level systems, Web3. Part-time webdev enthusiast. Wannabe Rustacean.
-<br>
-<img src="https://github.com/0xmuon/Store/blob/main/The-IT-Crowd-on-fire.gif">
+Passionate about low-level systems, fuzzing(recent hobby), Web3. Part-time webdev enthusiast. Wannabe Rustacean.
 
-[![Rudraksh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xmuon&bg_color=000000&color=2bff00&line=433c77&point=8e86fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![std::panic::0xmuon](https://s13.gifyu.com/images/bmuvz.gif)
 
+![std::about::overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xmuon&theme=2077)
 
 ## How to reach me📫
 ```sh
 echo "cnVkcmFrc2hqb3NoaWNAZ21haWwuY29tCmh0dHBzOi8vbGlua2VkaW4uY29tL2luL3J1ZHJha3NoLWovCmh0dHBzOi8veC5jb20vMHhtdW9u" | base64 -d
 ```
-
 
 <div align="center">
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />

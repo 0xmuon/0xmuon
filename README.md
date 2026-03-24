@@ -8,6 +8,18 @@
 <br>
 Passionate about low-level systems, fuzzing(recent hobby), Web3. Part-time webdev enthusiast. Wannabe Rustacean.
 
+CSAI Student member: [CYBER SECURITY ASSOCIATION OF INDIA](https://www.ncsai.in/home)
+
+GDSC Student member: [SVNIT/NIT Surat chapter](https://gdg.community.dev/gdg-on-campus-sardar-vallabhbhai-national-institute-of-technology-surat-india/)
+
+ACM Student member: [SVNIT/NIT Surat chapter](https://github.com/acm-svnit)
+
+#### Skills:
+Languages: Rust,C,C++,Javascript,Typescript,MySQL,Python
+Frameworks & Libraries: Next.js, React.js, Express.js, Tailwind CSS, Bootstrap, Solana CLI/Anchor Framework
+Technologies & Platforms: Redis , Docker , Kubernetes (K8s) , Nginx , REST APIs , WebSockets
+
+
 ![std::panic::0xmuon](https://s13.gifyu.com/images/bmuvz.gif)
 
 ![std::about::overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xmuon&theme=2077)
